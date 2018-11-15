@@ -8,7 +8,7 @@
     "require-dev": {
         "php": ">=5.4"
     },
-    "license": "JX",
+    "license": "MIT",
     "authors": [
         {
             "name": "isjx",
